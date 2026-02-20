@@ -1,20 +1,10 @@
-\# 🌿 Nature \& Travel Website
+🌿 Nature & Travel Website
 
 
 
-A responsive \*\*Nature \& Travel landing page\*\* built using HTML, CSS, and JavaScript.  
+A responsive ature & Travel landing page built using HTML, CSS, and JavaScript.  
 
-This project is designed as a \*\*student practice project (SMK TKJ)\*\* to demonstrate front-end skills such as layout design, responsive navigation, video backgrounds, and interactive sliders.
-
-
-
----
-
-
-
-\## 📸 Screenshot
-
-!\[Preview](assets/img/screenshot.png)
+This project is designed as a student practice project (SMK TKJ) to demonstrate front-end skills such as layout design, responsive navigation, video backgrounds, and interactive sliders.
 
 
 
@@ -22,21 +12,9 @@ This project is designed as a \*\*student practice project (SMK TKJ)\*\* to demo
 
 
 
-\## 🚀 Features
+## 📸 Screenshot
 
-\- Fullscreen video background slider
-
-\- Animated navigation menu (mobile responsive)
-
-\- Smooth transitions between slides
-
-\- Modern typography and layout
-
-\- Interactive slider navigation buttons
-
-\- Social media icons
-
-\- Responsive design for smaller screens
+[Preview](assets/img/screenshot.png)
 
 
 
@@ -44,17 +22,38 @@ This project is designed as a \*\*student practice project (SMK TKJ)\*\* to demo
 
 
 
-\## 🛠️ Built With
+## 🚀 Features
 
-\- HTML5
+- Fullscreen video background slider
 
-\- CSS3
+- Animated navigation menu (mobile responsive)
 
-\- JavaScript (Vanilla)
+- Smooth transitions between slides
 
-\- Font Awesome Icons
+- Modern typography and layout
 
-\- Google Fonts
+- Interactive slider navigation buttons
+
+- Social media icons
+
+- Responsive design for smaller screens
+
+
+
+---
+
+
+## 🛠️ Built With
+
+- HTML5
+
+- CSS3
+
+- JavaScript (Vanilla)
+
+- Font Awesome Icons
+
+- Google Fonts "Josefin sans"
 
 
 
@@ -62,7 +61,7 @@ This project is designed as a \*\*student practice project (SMK TKJ)\*\* to demo
 
 
 
-\## 📂 Project Structure
+## 📂 Project Structure
 
 project-folder/
 
@@ -110,35 +109,21 @@ project-folder/
 
 
 
-\## 🎓 Educational Purpose
+## 🎓 Educational Purpose
 
 This project was created as a \*\*learning exercise for TKJ students\*\* to practice:
 
 
 
-\- Website structure
+- Website structure
 
-\- Styling techniques
+- Styling techniques
 
-\- UI layout design
+- UI layout design
 
-\- DOM manipulation
+- DOM manipulation
 
-\- Responsive development
-
-
-
----
-
-
-
-\## ▶️ How to Run
-
-1\. Download or clone this repository
-
-2\. Open folder
-
-3\. Run `index.html` in your browser
+- Responsive development
 
 
 
@@ -146,7 +131,21 @@ This project was created as a \*\*learning exercise for TKJ students\*\* to prac
 
 
 
-\## 📄 License
+## ▶️ How to Run
+
+1. Download or clone this repository
+
+2. Open folder
+
+3. Run `index.html` in your browser
+
+
+
+---
+
+
+
+## 📄 License
 
 This project is licensed under the MIT License — see the LICENSE file for details.
 
@@ -156,7 +155,7 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 
 
-\## ✨ Author Notes
+## ✨ Author Notes
 
 Feel free to modify, improve, and experiment with this project for learning purposes.
 
