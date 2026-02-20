@@ -14,7 +14,7 @@ This project is designed as a student practice project (SMK TKJ) to demonstrate 
 
 ## 📸 Screenshot
 
-[Preview](assets/img/screenshot.png)
+![Preview](assets/img/screenshot.png)
 
 
 
